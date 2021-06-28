@@ -1,0 +1,2 @@
+include toastify/lib/*
+imclude tests/*
