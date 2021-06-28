@@ -2,6 +2,8 @@ This module is very lightweight and only takes about 50kb after installation.
 
 **GitHub Repo :** https://github.com/Tanishq-Banyal/toastify
 
+**Install Using :** `pip install toastify`
+
 **#+++++++++------EXAMPLE------++++++++++#**
 
 ```python
