@@ -16,7 +16,7 @@ setup(
 	long_description_content_type="text/markdown",
 	url="https://github.com/Tanishq-Banyal",
 	author="Tanishq-Banyal",
-	author_email="banyaltanishq@gmail.com",
+	author_email="tanishqbanyal@gmail.com",
 	license="MIT",
 	classifiers=[
 		"Environment :: Win32 (MS Windows)",
