@@ -10,11 +10,11 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
 	name="toastify",
-	version="1.1.5",
+	version="1.1.6",
 	description="Simple and Lighweight Windows 10 Toast Notifications.",
 	long_description=README,
 	long_description_content_type="text/markdown",
-	url="https://github.com/Tanishq-Banyal",
+	url="https://github.com/Tanishq-Banyal/toastify",
 	author="Tanishq-Banyal",
 	author_email="tanishqbanyal@gmail.com",
 	license="MIT",
