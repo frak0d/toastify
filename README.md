@@ -1,4 +1,4 @@
-This module is very lightweight and only takes about 50kb after installation.
+This module is very lightweight and only takes about 50kb after installation. It's a python frontend for [DesktopToast](https://github.com/emoacht/DesktopToast)
 
 **GitHub Repo :** https://github.com/Tanishq-Banyal/toastify
 
